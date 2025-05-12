@@ -1,4 +1,4 @@
-## V3 Upgrade Notice
+## V3 Upgrade Notic
 hugo-theme-jane just had a major update, please check out: [Jane Theme V3 Major Update](https://www.xianmin.org/hugo-theme-jane/post/jane-theme-v3-major-update/) & [Hugo-Theme-Jane V3 Upgrade Notice !!! · xianmin/hugo-theme-jane · Discussion #397](https://github.com/xianmin/hugo-theme-jane/discussions/397)
 
 
